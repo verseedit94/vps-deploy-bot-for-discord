@@ -1,0 +1,9 @@
+# secrets and runtime data - NEVER commit these
+.env
+data/
+*.db
+*.log
+venv/
+__pycache__/
+*.pyc
+.pybin
